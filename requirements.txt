@@ -1,0 +1,30 @@
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+
+# Google Gemini API
+google-generativeai
+
+# Web search
+tavily-python
+
+# Web scraping / HTML parsing
+beautifulsoup4
+requests
+
+# Environment variables
+python-dotenv
+
+# Optional but useful for async HTTP/tool execution
+httpx
+aiohttp
+
+# Data validation / schemas
+pydantic
+
+# Type support
+typing-extensions
+
+streamlit
