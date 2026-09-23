@@ -2,10 +2,11 @@
 langchain
 langchain-core
 langchain-community
-langchain-google-genai
+# 
+langchain-groq
 
 # Google Gemini API
-google-generativeai
+# google-generativeai
 
 # Web search
 tavily-python
